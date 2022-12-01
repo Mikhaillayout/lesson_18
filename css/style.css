@@ -111,7 +111,7 @@ body {
 
 @media (max-width: 935px) {
   .main {
-    padding-top: 75px;
+    padding-top: 105px;
   }
   .main__top {
     grid-template-columns: 1fr;
@@ -129,7 +129,7 @@ body {
 }
 @media (max-width: 715px) {
   .main {
-    padding-top: 145px;
+    padding-top: 175px;
   }
   .main__top {
     grid-template-rows: auto;
